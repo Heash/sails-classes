@@ -1,3 +1,15 @@
-# sails-classes
+# Sails + ES6 classes Demo #
 
-a [Sails](http://sailsjs.org) application
+### Interesting in: ###
+
+* /api/services/Animal.js
+* 
+* /api/services/Dog.js
+* 
+* /api/controllers/MainController.js
+
+
+
+### Test route: ###
+
+* http://localhost:1337/animal
